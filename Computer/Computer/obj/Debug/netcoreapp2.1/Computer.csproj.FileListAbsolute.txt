@@ -1,0 +1,11 @@
+D:\c#\作业\Computer\Computer\bin\Debug\netcoreapp2.1\Computer.deps.json
+D:\c#\作业\Computer\Computer\bin\Debug\netcoreapp2.1\Computer.runtimeconfig.json
+D:\c#\作业\Computer\Computer\bin\Debug\netcoreapp2.1\Computer.runtimeconfig.dev.json
+D:\c#\作业\Computer\Computer\bin\Debug\netcoreapp2.1\Computer.dll
+D:\c#\作业\Computer\Computer\bin\Debug\netcoreapp2.1\Computer.pdb
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.csprojAssemblyReference.cache
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.csproj.CoreCompileInputs.cache
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.AssemblyInfoInputs.cache
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.AssemblyInfo.cs
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.dll
+D:\c#\作业\Computer\Computer\obj\Debug\netcoreapp2.1\Computer.pdb
